@@ -1,0 +1,7 @@
+@function dvw($pixels){
+    @return #{$pixels / 1600 * 100}vw;
+}
+
+@function mvw($pixels){
+    @return #{$pixels / 414 * 100}vw;
+}

@@ -1,0 +1,43 @@
+{
+  "name": "spenik-law",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "core-js": "^2.6.4",
+    "global": "^4.4.0",
+    "gridsome": "^0.7.12",
+    "lodash": "^4.17.15",
+    "v-scroll-lock": "^1.1.0"
+  },
+  "devDependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.4.0",
+    "@gridsome/transformer-yaml": "^0.2.1",
+    "axios": "^0.19.2",
+    "gh-pages": "^2.2.0",
+    "assets-loader": "^0.5.2",
+    "gridsome-source-storyblok": "^0.1.5",
+    "moment": "^2.24.0",
+    "node-sass": "^4.13.1",
+    "normalize.css": "^8.0.1",
+    "sass-loader": "^8.0.2",
+    "sharp": "^0.24.1",
+    "style-resources-loader": "^1.3.3",
+    "typeface-open-sans": "0.0.75",
+    "typeface-playfair-display": "0.0.72",
+    "vue-axios": "^2.1.5",
+    "vue-carousel": "^0.18.0",
+    "vue-loader": "^15.9.0",
+    "vue-material-design-icons": "^4.4.0",
+    "vue-template-compiler": "^2.6.10",
+    "vue-style-loader": "^4.1.2",
+    "vuejs-snackbar": "^4.0.1",
+    "xhr-promise": "^2.0.0"
+  }
+}

@@ -1,0 +1,44 @@
+hero:
+  heading: "Our vision focuses on your future."
+  btn:
+    text: "Get started"
+    link: "#contact-section"
+who:
+  heading: Take time to enjoy the big and small moments in life, let us worry about the details.
+  copy:
+    - "The Spenik Law Firm, PLLC handles Estate Planning, Probate & Trust Administration, Elder Law, and Guardianship matters. At The Spenik Law Firm, we pride ourselves on being different and offering a personalized and comfortable forum to discuss your legal matters. The Spenik Law Firm, PLLC employs practices to ensure that all of your questions and concerns are addressed adequately and in a timely manner. We strive to provide an experience that makes our clients feel like family."
+    - "We understand the importance of your estate plan and sincerely appreciate the opportunity to show you the ways our firm is different."
+  btn:
+    text: Meet the team
+    link: "/about"
+what:
+  heading: "Areas of Practice."
+  list:
+    - heading: "Elder Law & Guardianship"
+      copy: "Elder law is the application of the existing laws that can be utilized to benefit and protect our senior citizens and their assets. In situations of incapacity without the proper estate planning, a Guardianship may be necessary."
+      link: /practice-areas/#elder-law-item
+    - heading: "Estate & Incapacity Planning"
+      copy: "Our experienced legal team will work with you to help simplify your estate plan, allowing for your assets to be designated according to your wishes. Many life events warrant creating an estate plan now, including: a new baby, minor children, buying a home, owning a business, or caring for your grandchildren. Your estate plan will be tailored to meet your exact needs."
+      link: /practice-areas/#estate-planning-item
+    - heading: "Probate & Trust Administration"
+      copy: "Losing a loved one can be challenging enough. Let us assist you in determining if the probate process will be necessary in your situation. If so, we will assist you in navigating the process under the Florida Probate Code."
+      link: /practice-areas/#probate-item
+testimonials:
+  heading: "Testimonials."
+  list:
+    - name: "Ryan Pawell"
+      copy: "“Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor amet”"
+    - name: "Sarah Placella"
+      copy: "“Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor amet”"
+    - name: "Beth Zotter"
+      copy: "“Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor amet”"
+areas:
+  name: practice-areas
+  heading: Practice Areas
+  list:
+    - label: Elder Law
+      link: "#"
+    - label: Estate Planning
+      link: "#"
+    - label: Probate
+      link: "#"

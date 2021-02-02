@@ -1,0 +1,18 @@
+social:
+  insta: https://www.instagram.com/speniklaw/
+  facebook: https://www.facebook.com/speniklaw/
+  linkedin: https://www.linkedin.com/in/jessica-spenik-esquire
+action:
+  label: Get started
+  link: /contact
+navigation:
+  - label: Home
+    link: /
+  - label: Practice Areas
+    link: /practice-areas
+  - label: About Us
+    link: /about
+  - label: Blog
+    link: /blog
+copyright: 2019 Spenik Law
+phone: (321) 223-5225

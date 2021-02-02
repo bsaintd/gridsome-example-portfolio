@@ -1,0 +1,23 @@
+$phone: 768px;
+
+h1, h2, h3, h4, h5{
+    margin-bottom: .3em;
+    line-height: 1;
+}
+p{
+    margin-bottom: .3em;
+}
+*{
+    box-sizing: border-box;
+}
+$pxs: dvw(20);
+$ps: dvw(35);
+$pm: dvw(45);
+$pl: dvw(75);
+
+@media (min-width: $phone + 1px){
+    .mobile{display: none;}
+}
+@media (max-width: $phone){
+    .desktop{display: none;}
+}
